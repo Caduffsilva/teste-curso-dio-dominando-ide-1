@@ -1,7 +1,5 @@
 package novoprojeto;
 
-import novoprojeto.Gato;
-
 public class novoprojeto {
  public static void main(String[] args) {
 	 
